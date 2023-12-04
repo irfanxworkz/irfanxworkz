@@ -16,20 +16,20 @@ and this repository is a result of my efforts in [Developed Dyanamic Web Project
 - 💼 [https://www.linkedin.com/in/irfanxworkz/]
 
 ## Technologies Used :-
-Java
-JSP (JavaServer Pages)
-Servlet
-Spring MVC Framework
-JDBC
-MySQL
-Eclipse IDE
-Maven
-HTML
-CSS
-Bootstrap
-JavaScript
-JPA (Java Persistence API)
-AJAX
+- Java
+- JSP (JavaServer Pages)
+- Servlet
+- Spring MVC Framework
+- JDBC
+- MySQL
+- Eclipse IDE
+- Maven
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- JPA (Java Persistence API)
+- AJAX
 
 ## Features :-
 ## Admin Panel :
